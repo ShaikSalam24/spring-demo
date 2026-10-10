@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springdemo
+server:
+  prot: 8081
